@@ -94,7 +94,6 @@ def onPlayStateChange(state):
 ```
   
  12. About 74HCT245 or similar buffer<br />
- 
  	Please be aware, it could featured as Teensy 3.2 OctoWS2811 Adaptor. but in my case, it does not work well. Some of buffer just not fast enough to transmit.will cause LED lights flicking or runing ramdon effects. 
  
  13. Color order<br />
