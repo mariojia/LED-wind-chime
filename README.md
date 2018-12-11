@@ -2,7 +2,7 @@
 touchdesigner -- Teensy -- LED strip 2812B
 
 
-1.Computer tuning touch<br />
+1.Computer runing touch<br />
 	It has to be a PC, Mac does not support serial unless you have a USB to serial adaptor.
 
 2.Download Teensy Loader<br />
